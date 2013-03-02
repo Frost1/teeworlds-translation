@@ -751,19 +751,19 @@
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d гулец выйшаў" 
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d  гулец не гатовы"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d гульцоў выйшла "
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d гульцы не гатовыя "
 	},
 	{
 		"or": "%d servers, %d players",
